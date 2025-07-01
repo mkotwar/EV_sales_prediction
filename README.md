@@ -11,3 +11,4 @@ RMSE (Root Mean Squared Error): 119.21
 R² Score: 0.908
 
 These results indicate that the model is highly accurate, typically making predictions within ±11 vehicles, and it explains over 90% of the variance in the data. This makes it a reliable tool for forecasting EV sales trends and understanding which factors most influence EV adoption across different regions.
+![Actual vs Predicted (Random Forest  Linear Regression)](https://github.com/user-attachments/assets/c0566d12-2861-4edc-a83d-945b333a19f7)
